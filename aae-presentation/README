@@ -1,0 +1,5 @@
+This Latex Beamer theme is intended for use by Purdue University students in the School of Aeronautics & Astronautics (AAE).
+It is based on Andrei Barbu's theme (https://github.com/abarbu/purdue-beamer), but was modified to include a non-white background and the AAE banner on the title page.
+
+The example.tex file demonstrates how to use the theme and, in general, how to use some simple features of the Beamer package. 
+Hopefully it is instructional and helpful.
